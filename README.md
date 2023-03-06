@@ -8,6 +8,10 @@
 * [dovpanda](https://github.com/dovpanda-dev/dovpanda): Generate helpful hints as you write your Pandas code
 * [sketch](https://github.com/approximatelabs/sketch): An AI code-writing assistant for pandas users that understands the context of your data, greatly improving the relevance of suggestions
 
+
+## Data generation
+* [drawdata](https://github.com/koaning/drawdata): This small python app allows you to draw a dataset in a jupyter notebook.
+
 ## EDA and data viz
 * [PyGWalker](https://github.com/Kanaries/pygwalker): Turn your pandas dataframe into a Tableau-style User Interface for visual exploration.
 * [Science Plots](https://github.com/garrettj403/SciencePlots): Matplotlib styles for scientific figures
