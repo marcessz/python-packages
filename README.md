@@ -14,6 +14,11 @@
 * faker 
 * [drawdata](https://github.com/koaning/drawdata): This small python app allows you to draw a dataset in a jupyter notebook.
 
+
+## Model optimization - hyperparameter tuning
+* [optuna](https://github.com/optuna/optuna)
+
+
 ## EDA and data viz
 * [PyGWalker](https://github.com/Kanaries/pygwalker): Turn your pandas dataframe into a Tableau-style User Interface for visual exploration.
 
@@ -31,6 +36,9 @@
 
 ## Text - NLP
 * [autocorrect](https://github.com/filyp/autocorrect): Spellcheck, autocorrect
+
+## Webapps
+* [gradio](https://github.com/gradio-app/gradio)
 
 ## Video
 * [MoviePy](https://github.com/Zulko/moviepy): Video editing in python. Can also convert sequences of images to video.
