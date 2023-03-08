@@ -41,7 +41,11 @@
 
 ## Text - NLP
 
-## Spelling
+### String matching
+* [thefuzz](https://github.com/seatgeek/thefuzz): Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package.
+* [jellyfish](https://github.com/jamesturk/jellyfish): a library for approximate & phonetic matching of strings.
+
+### Spelling
 * [autocorrect](https://github.com/filyp/autocorrect): Spellcheck, autocorrect
 * [pyspellchecker](https://github.com/barrust/pyspellchecker)
 
