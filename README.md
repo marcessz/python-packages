@@ -47,6 +47,8 @@
 
 ## Webapps
 * [gradio](https://github.com/gradio-app/gradio)
+* Streamlit
+* [mercury](https://github.com/mljar/mercury) 
 
 ## Video
 * [MoviePy](https://github.com/Zulko/moviepy): Video editing in python. Can also convert sequences of images to video.
