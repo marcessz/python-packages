@@ -17,6 +17,13 @@
 * [Science Plots](https://github.com/garrettj403/SciencePlots): Matplotlib styles for scientific figures
 
 
+
+## Timeseries 
+* dart
+* pyflux
+* stumpy
+* prophet
+
 ## Text - NLP
 * [autocorrect](https://github.com/filyp/autocorrect): Spellcheck, autocorrect
 
