@@ -10,6 +10,8 @@
 
 
 ## Data generation
+* [pydbgen](https://github.com/tirthajyoti/pydbgen): Generate random pandas dataframes
+* faker 
 * [drawdata](https://github.com/koaning/drawdata): This small python app allows you to draw a dataset in a jupyter notebook.
 
 ## EDA and data viz
