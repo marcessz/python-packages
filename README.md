@@ -35,7 +35,10 @@
 * prophet
 
 ## Text - NLP
+
+## Spelling
 * [autocorrect](https://github.com/filyp/autocorrect): Spellcheck, autocorrect
+* [pyspellchecker](https://github.com/barrust/pyspellchecker)
 
 ## Webapps
 * [gradio](https://github.com/gradio-app/gradio)
