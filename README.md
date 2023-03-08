@@ -14,7 +14,10 @@
 
 ## EDA and data viz
 * [PyGWalker](https://github.com/Kanaries/pygwalker): Turn your pandas dataframe into a Tableau-style User Interface for visual exploration.
+
+### Matplotlib styles and styling
 * [Science Plots](https://github.com/garrettj403/SciencePlots): Matplotlib styles for scientific figures
+* [Aquarel](https://github.com/lgienapp/aquarel): Aquarel is a lightweight templating engine and wrapper around Matplotlibs' `rcparams` to make styling plots simple. 
 
 
 
