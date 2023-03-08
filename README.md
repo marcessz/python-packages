@@ -17,7 +17,10 @@
 * [Science Plots](https://github.com/garrettj403/SciencePlots): Matplotlib styles for scientific figures
 
 
+## Text - NLP
+* [autocorrect](https://github.com/filyp/autocorrect): Spellcheck, autocorrect
+
 ## Video
 * [MoviePy](https://github.com/Zulko/moviepy): Video editing in python. Can also convert sequences of images to video.
-* Download video from youtube
+* [pytube](https://github.com/pytube/pytube): Download videos from YouTube
 * 
