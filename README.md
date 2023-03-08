@@ -24,7 +24,7 @@
 * [plotapi](https://github.com/shahinrostami/plotapi) Engaging visualisations, made easy, e.g., race charts. 
 
 
-## Dimension reduction
+### Dimension reduction
 * [HypterTools](https://github.com/ContextLab/hypertools): HyperTools is designed to facilitate dimensionality reduction-based visual explorations of high-dimensional data.
 
 ### Matplotlib styles and styling
