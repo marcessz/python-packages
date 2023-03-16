@@ -25,6 +25,7 @@
 * [Lux](https://github.com/lux-org/lux): A library that facilitate fast and easy data exploration by automating the visualization and data analysis process.
 * [AutoViz](https://github.com/AutoViML/AutoViz): Automatically Visualize any dataset, any size with a single line of code. Now you can save these interactive charts as HTML files automatically with the "html" setting.
 * [summarytools](https://github.com/6chaoran/jupyter-summarytools): Generate standardized and comprehensive summary of dataframe in Jupyter Notebooks.
+* [SweetViz](https://github.com/fbdesignpro/sweetviz): Sweetviz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA  with just two lines of code. Output is a fully self-contained HTML application.
 
 
 ### Dimension reduction
