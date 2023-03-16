@@ -26,6 +26,7 @@
 * [AutoViz](https://github.com/AutoViML/AutoViz): Automatically Visualize any dataset, any size with a single line of code. Now you can save these interactive charts as HTML files automatically with the "html" setting.
 * [summarytools](https://github.com/6chaoran/jupyter-summarytools): Generate standardized and comprehensive summary of dataframe in Jupyter Notebooks.
 * [SweetViz](https://github.com/fbdesignpro/sweetviz): Sweetviz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA  with just two lines of code. Output is a fully self-contained HTML application.
+* [D-Tale](https://github.com/man-group/dtale): D-Tale is the combination of a Flask back-end and a React front-end to bring you an easy way to view & analyze Pandas data structures.
 
 
 ### Dimension reduction
