@@ -22,6 +22,7 @@
 ## EDA and data viz
 * [PyGWalker](https://github.com/Kanaries/pygwalker): Turn your pandas dataframe into a Tableau-style User Interface for visual exploration.
 * [plotapi](https://github.com/shahinrostami/plotapi) Engaging visualisations, made easy, e.g., race charts. 
+* [summarytools](https://github.com/6chaoran/jupyter-summarytools): Generate standardized and comprehensive summary of dataframe in Jupyter Notebooks.
 
 
 ### Dimension reduction
