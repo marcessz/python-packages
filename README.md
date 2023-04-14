@@ -33,6 +33,7 @@
 * [HypterTools](https://github.com/ContextLab/hypertools): HyperTools is designed to facilitate dimensionality reduction-based visual explorations of high-dimensional data.
 
 ### Matplotlib styles and styling
+* [matplotx](https://github.com/nschloe/matplotx)
 * [Science Plots](https://github.com/garrettj403/SciencePlots): Matplotlib styles for scientific figures
 * [Aquarel](https://github.com/lgienapp/aquarel): Aquarel is a lightweight templating engine and wrapper around Matplotlibs' `rcparams` to make styling plots simple. 
 
