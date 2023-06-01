@@ -57,8 +57,9 @@
 * [pyspellchecker](https://github.com/barrust/pyspellchecker)
 
 ## Webapps
+* [Solara](https://github.com/widgetti/solara)
 * [gradio](https://github.com/gradio-app/gradio)
-* Streamlit
+* [Streamlit](https://github.com/streamlit/streamlit)
 * [mercury](https://github.com/mljar/mercury) 
 
 ## Video
