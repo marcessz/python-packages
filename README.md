@@ -7,7 +7,7 @@
 ## Data preprocessing
 * [dovpanda](https://github.com/dovpanda-dev/dovpanda): Generate helpful hints as you write your Pandas code
 * [sketch](https://github.com/approximatelabs/sketch): An AI code-writing assistant for pandas users that understands the context of your data, greatly improving the relevance of suggestions
-* [Pandas AI](https://github.com/gventuri/pandas-ai)
+* [Pandas AI](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that adds generative artificial intelligence capabilities to Pandas
 
 
 ## Data generation
