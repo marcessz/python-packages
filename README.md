@@ -1,5 +1,7 @@
 # python-packages
 
+So far, I have starred more than 200 GitHub pages - mostly Python packages - that I found interesting and that might be useful in my (and your) next data science project. In this markdown file, I am just trying to organize these starred packages and pages.
+
 ## Data I/O
 * [CleverCSV](https://github.com/alan-turing-institute/CleverCSV): Resolve parsing errors while reading CSV files with Pandas.
 * [fastparquet](https://github.com/dask/fastparquet): Speed-up parquet I/O of pandas by 5x.
