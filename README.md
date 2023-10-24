@@ -47,6 +47,19 @@ So far, I have starred more than 200 GitHub pages - mostly Python packages - tha
 * [Aquarel](https://github.com/lgienapp/aquarel): Aquarel is a lightweight templating engine and wrapper around Matplotlibs' `rcparams` to make styling plots simple. 
 
 
+## Machine learning
+
+## Deep learning
+*[TabPFN](https://github.com/automl/TabPFN)
+
+## Auto ML
+* [PyCaret](https://github.com/pycaret/pycaret)
+* [AutoGluon](https://github.com/autogluon/autogluon)
+* [auto-sklearn](https://github.com/automl/auto-sklearn)
+* [TPOT](https://github.com/EpistasisLab/tpot)
+* [FLAML](https://github.com/microsoft/FLAML)
+* H2O AutoML
+
 
 ## Timeseries 
 * sktime
