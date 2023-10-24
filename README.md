@@ -50,7 +50,7 @@ So far, I have starred more than 200 GitHub pages - mostly Python packages - tha
 ## Machine learning
 
 ## Deep learning
-*[TabPFN](https://github.com/automl/TabPFN)
+* [TabPFN](https://github.com/automl/TabPFN)
 
 ## Auto ML
 * [PyCaret](https://github.com/pycaret/pycaret)
