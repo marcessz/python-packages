@@ -69,7 +69,8 @@ So far, I have starred more than 200 GitHub pages - mostly Python packages - tha
 * [Solara](https://github.com/widgetti/solara)
 * [gradio](https://github.com/gradio-app/gradio)
 * [Streamlit](https://github.com/streamlit/streamlit)
-* [mercury](https://github.com/mljar/mercury) 
+* [mercury](https://github.com/mljar/mercury)
+* [Tapipy](https://github.com/Avaiga/taipy)
 
 ## Video
 * [MoviePy](https://github.com/Zulko/moviepy): Video editing in python. Can also convert sequences of images to video.
