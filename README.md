@@ -62,11 +62,13 @@ So far, I have starred more than 200 GitHub pages - mostly Python packages - tha
 
 
 ## Timeseries 
-* sktime
-* dart
-* pyflux
-* stumpy
-* prophet
+* [sktime](https://github.com/sktime/sktime)
+* [darts](https://github.com/unit8co/darts)
+* [pyflux](https://github.com/RJT1990/pyflux)
+* [stumpy](https://github.com/TDAmeritrade/stumpy)
+* [prophet](https://github.com/facebook/prophet)
+* [temporian](https://github.com/google/temporian)
+* [functime](https://github.com/functime-org/functime)
 
 ## Text - NLP
 
