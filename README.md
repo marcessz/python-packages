@@ -72,6 +72,11 @@ So far, I have starred more than 200 GitHub pages - mostly Python packages - tha
 
 ## Text - NLP
 
+### Pre-processing
+* [unstructured](https://github.com/Unstructured-IO/unstructured)
+* [spaCy](https://github.com/explosion/spaCy)
+* [nltk](https://github.com/nltk/nltk)
+
 ### String matching
 * [thefuzz](https://github.com/seatgeek/thefuzz): Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package.
 * [jellyfish](https://github.com/jamesturk/jellyfish): a library for approximate & phonetic matching of strings.
