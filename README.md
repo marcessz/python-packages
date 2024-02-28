@@ -69,6 +69,7 @@ So far, I have starred more than 200 GitHub pages - mostly Python packages - tha
 * [prophet](https://github.com/facebook/prophet)
 * [temporian](https://github.com/google/temporian)
 * [functime](https://github.com/functime-org/functime)
+* [tsfresh](https://tsfresh.readthedocs.io/en/latest/text/list_of_features.html)
 
 ## Text - NLP
 
