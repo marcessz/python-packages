@@ -54,6 +54,7 @@ So far, I have starred more than 200 GitHub pages - mostly Python packages - tha
 
 ## Auto ML
 * [PyCaret](https://github.com/pycaret/pycaret)
+* [Perpetual-ml](https://github.com/perpetual-ml/perpetual)
 * [AutoGluon](https://github.com/autogluon/autogluon)
 * [auto-sklearn](https://github.com/automl/auto-sklearn)
 * [TPOT](https://github.com/EpistasisLab/tpot)
