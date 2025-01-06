@@ -26,6 +26,7 @@ So far, I have starred more than 200 GitHub pages - mostly Python packages - tha
 
 ## Model optimization - hyperparameter tuning
 * [optuna](https://github.com/optuna/optuna)
+* hyperopt
 
 
 ## EDA and data viz
